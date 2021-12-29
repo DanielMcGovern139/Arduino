@@ -10,4 +10,4 @@ Silver Challenge:
 In this challenge the buggy must traverse a circuit track without derailing while detecting objects and following them at a safe distance using proportional integral derivative (PID) control, and listening to "Stop" and "Go" commands.
 
 Gold Challenge:
-For this challenge a self balancing buggy was created similar to a segway.  This was achieved using inertial measurement units (IMU).
+For this challenge a self balancing buggy was created similar to a segway.  This was achieved using the buggy's inertial measurement units (IMU) and the PID control.
