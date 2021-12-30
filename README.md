@@ -1,6 +1,6 @@
 # Arduino
 
-This Repository contains code for a self driving buggy using arduino.  This was completed in the 2E10 design module in tcd.  Three different challenges were completed.
+This Repository contains code for a self driving buggy using arduino.  This was completed as part of a team in the 2E10 design module in tcd.  Three different challenges were completed.
 
 Bronze Challenge:
 The aim for the buggy in this challenge is to traverse the circuit track without derailing, stopping at detected objects and listening to "Stop" and "Go" commands from 
